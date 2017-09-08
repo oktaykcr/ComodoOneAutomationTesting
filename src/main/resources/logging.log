@@ -1,0 +1,19 @@
+2017-09-06 10:17:25 INFO  TestCOneLoginPage:21 - Begining of the Test
+2017-09-06 10:17:28 INFO  TestCOneLoginPage:24 - Chrome driver setup
+2017-09-06 10:17:36 INFO  COneLoginPage:30 - Driver installation successful.
+2017-09-06 10:17:36 INFO  COneLoginPage:90 - Login page successfully opened!
+2017-09-06 10:17:39 INFO  COneLoginPage:126 - Current URL: https://staging.one.comodo.com/app/password-reset-request
+2017-09-06 10:17:39 INFO  COneLoginPage:129 - Forgot Password page unique text: password reset request
+2017-09-06 10:17:39 INFO  COneLoginPage:131 - Forgot password page successfully opened!
+2017-09-06 10:17:42 INFO  COneLoginPage:30 - Driver installation successful.
+2017-09-06 10:17:42 INFO  COneLoginPage:90 - Login page successfully opened!
+2017-09-06 10:17:46 INFO  COneLoginPage:150 - Current URL: https://itunes.apple.com/tr/app/comodo-one-mobile/id1087953385
+2017-09-06 10:17:46 INFO  COneLoginPage:153 - App Store unique text: comodo one mobile
+by comodo security solutions, inc
+view more by this developer
+open itunes to buy and download apps.
+2017-09-06 10:17:46 INFO  COneLoginPage:155 - App Store page successfully opened!
+2017-09-06 10:17:51 INFO  COneLoginPage:178 - Current URL: https://play.google.com/store/apps/details?id=com.comodo.one.mobile&hl=tr
+2017-09-06 10:17:52 INFO  COneLoginPage:181 - Android Store unique text: comodo one mobile
+2017-09-06 10:17:52 INFO  COneLoginPage:183 - Android Store page successfully opened!
+2017-09-06 10:17:53 INFO  TestCOneLoginPage:30 - End of the test
