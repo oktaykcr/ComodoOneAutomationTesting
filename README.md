@@ -1,11 +1,11 @@
 # ![cone](mdimages/logo.png) Test Automation
 
 ## Description
-<span style='color:red; font-weight: bold;'>What is <i>Comodo One<i>?</span>
+> <b>What is <i>Comodo One<i>?</b>
 
 [Comodo One](https://one.comodo.com/) is scalable IT management platform. The users of Comodo One can manage their all costumer's computers just using a remote connection. Comodo One have a lot of advantages.In IT system management tools, the users can use RMM(romote monitoring and management), romote control and access, automated patch management, mobile device management, network performance, network assessment tool, analytics&reporting.
 
-<span style='color:red; font-weight: bold;'>What is this project about?</span>
+> <b>What is this project about?</b>
 
 Comodo One is an automation test I developed as long as I did my internship at Comodo. This project includes various frameworks which I used in my automation test project.
 - Maven
@@ -17,7 +17,7 @@ Comodo One is an automation test I developed as long as I did my internship at C
 
 I wrote Comodo One login page, Comodo One menu page and account login test. I followed the page object model(POM) rules when I developed this project. This project was created as a Maven project so no external installation if you want to try project. I wrote all necessary code into the pom.xml file for Allure Test Report and Jenkins. When you compile project with Maven, it creates Allure test report automatically. I used Allure Features(attachments-image,file) in my project. This project is suitable for working in Jenkins. In addition I used Log4J for logging and java properties to hide my Comodo One account informations.
 
-<span style='color:red; font-weight: bold;'>Jenkins Allure Integration</span>
+> <b>Jenkins Integration</b>
 
 ###### Jenkins
  - First we should dowload <b>[Jenkins](https://jenkins.io/download/)</b>.
@@ -72,19 +72,21 @@ I wrote Comodo One login page, Comodo One menu page and account login test. I fo
 
   - After all these steps we should click Save button.Now, our project has been created.In project, if we click <b>Build Now</b> button, our project compile automaticaly and then we can see our test results on Allure.
 
-<span style='color:red; font-weight: bold;'>Java Properties File</span>
+> <b>Java Properties File</b>
 
   - You should fill in the properties file correctly. Otherwise the automation is not worked!
   - You should write your account information and chrome driver location into <b>src/main/resources/config.properties</b>
 
     ![properties](./mdimages/properties.png)
 
-<span style='color:red; font-weight: bold;'>Result</span>
+> <b>Result</b>
 
-  ![allure-example](./mdimages/allure-example.png)
+   ![allure-example](./mdimages/allure-example.png)
 
 
 ## Credits
 - Oktay Koçer
 
 ## License
+
+- [License File](LICENSE)
