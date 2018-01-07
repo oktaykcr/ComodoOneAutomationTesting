@@ -29,7 +29,7 @@ I wrote Comodo One login page, Comodo One menu page and account login test. I fo
  - After login our automation server, we should setup Allure plugin into Jenkins.<br>
   • Click Manage <b>Jenkins</b> > <b>Manage Plugins</b>
  - We sould specify the location of Allure to the Jenkins. You can check install automatically or choose on your computer.<br>
-  • Click <b>Manage Jenkins<b> > <b>Global Tool Configuration</b>
+  • Click <b>Manage Jenkins</b> > <b>Global Tool Configuration</b>
 
   ![allure](./mdimages/allure-1.png)
 
